@@ -1,6 +1,6 @@
-![Welcome to the Asciicker Wiki](https://github.com/Gabrieldd001/asciicker-wiki/blob/master/juice/Wiki%20buttons.png)
+![Welcome to the Asciicker Wiki](https://github.com/Gabrieldd001/asciicker-wiki/blob/master/assets/homepage/Wiki%20buttons.png)
 # Now in github!
 
-## [Versions](https://github.com/Gabrieldd001/asciicker-wiki/blob/master/juice/fuck.md)
-## [Gallery]()
+## ![Versions](https://github.com/Gabrieldd001/asciicker-wiki/blob/master/assets/homepage/versions%20button.png)
+## [Gallery]
 ## [Characters]()
