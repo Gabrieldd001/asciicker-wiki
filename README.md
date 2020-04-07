@@ -1,7 +1,7 @@
-![Welcome to the Asciicker Wiki]()
+![Welcome to the Asciicker Wiki](https://github.com/Gabrieldd001/asciicker-wiki/blob/master/juice/Wiki%20buttons.png)
 # Now in github!
 
-## [Versions](asciicker.com)
+## [Versions](https://github.com/Gabrieldd001/asciicker-wiki/blob/master/juice/fuck.md)
 * reddit post!
   * reddit reply!
     * reddit reply!
