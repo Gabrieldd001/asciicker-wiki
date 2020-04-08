@@ -4,3 +4,5 @@
 ## [Versions](https://github.com/Gabrieldd001/asciicker-wiki/tree/master/versions)
 ## [Gallery]()
 ## [Characters]()
+
+# Want to contribute? [Make sure you know Markdown first!](https://guides.github.com/features/mastering-markdown/)
